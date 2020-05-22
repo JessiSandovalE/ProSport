@@ -1,0 +1,50 @@
+<nav class="navbar navbar-expand-lg fixed-top">
+    <a class="navbar-brand" routerLink="/home">
+        <img src="../assets/img/logo2.png" width="30" height="30" alt="logo">
+        <img src="../assets/img/logo_nombre.png" height="30" alt="logo">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+    <div class="collapse navbar-collapse " id="navbarSupportedContent ">
+        <ul class="navbar-nav mr-auto ">
+
+            <li class="nav-item ">
+                <a class="nav-link" routerLink="/about">{{'navegacion.title1' | translate}}</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" routerLink="/philosophy" href="#">{{'navegacion.title2' | translate}}</a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" routerLink="/services">{{'navegacion.title3' | translate}}</a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" routerLink="/planes">{{'navegacion.title4' | translate}}</a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" routerLink="/contact">{{'navegacion.title5' | translate}}</a>
+            </li>
+            <li class="nav-item iconos">
+                <a class="nav-link">
+
+                    <!--  -->
+                    <img src="../../../assets/img/español.png" alt="" srcset="" class="icono" (click)="changeLang('es')">
+                </a>
+                <a class=" nav-link ">
+                    <img src=" ../../../assets/img/ingles.png " alt=" " srcset=" " class="icono " (click)="changeLang( 'en')">
+                </a>
+            </li>
+            <li class="nav-item ">
+
+            </li>
+
+
+
+        </ul>
+
+    </div>
+</nav>

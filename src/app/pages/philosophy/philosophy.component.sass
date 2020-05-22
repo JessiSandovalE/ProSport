@@ -1,0 +1,179 @@
+
+.philosophy
+    width: 100%
+    height: 90vh
+    background-image: url('../../../assets/img/fondo4.jpeg')
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: center
+    background-attachment: fixed
+    display: flex
+    align-items: center
+    
+
+    &__text
+      
+        position: absolute
+        font-family: 'Archivo Black', sans-serif
+        color: white
+        text-align: center
+        border-radius: 2%
+        text-transform: uppercase
+       
+
+        h1
+            font-size: 4rem
+
+        
+    .row
+        margin: 0
+    &__image
+        padding-right: 0
+.philosophy:before
+    content: ''
+    position: absolute
+    background-color: rgba(0,0 , 0,0.6 )
+    height: 90vh
+    top: 0
+    left: 0
+    right: 0    
+    bottom: 0
+
+.mision,
+.vision
+    margin-top: 10%
+    &__text
+        margin-right: 20%
+        padding-top: 5%
+
+
+    
+.principios
+
+    .content
+        width: 100%
+        display: flex
+        flex-direction: row
+        justify-content: space-around
+        margin-top: 5%
+        .principio
+            border: 2px dashed #9c9c9c
+            border-radius: 100%
+            height: 300px
+            width: 300px 
+            display: flex
+            justify-content: center
+            align-items: center
+            
+            .principio__image1
+                background-image: url('../../../assets/img/emprendimiento.jpg')
+            .principio__image2
+                background-image: url('../../../assets/img/trabajoEquipo.jpg')
+            .principio__image3
+                background-image: url('../../../assets/img/reconocimiento.jpg')    
+       
+            .photo
+                background-position: center  
+                background-size: cover
+                background-repeat: no-repeat
+                box-sizing: border-box
+                border: 5% solid white
+                border-radius: 100%
+                height: 270px
+                width: 270px 
+            
+              
+            &__text
+                position: absolute
+                color: white
+                font-size: 1.5em
+                background-color: rgba(0,0 ,0 ,.6 )
+                
+
+.valores
+    margin: 5% 0
+    
+    .title
+        padding-top: 5%
+
+    .valor
+        margin-top: 2%
+        background-image: url('../../../assets/img/valores.jpg')
+        background-position: center
+        display: flex
+        justify-content: space-around
+        height: 400px
+        
+        &__container
+           
+            width: 100%
+            display: flex
+            flex-direction: column
+            justify-content: center
+            align-items: center
+            h5
+                text-transform: uppercase
+                padding: 5% 0
+        
+        .dark
+             background-color: rgba(122,178,18,0.4)
+           
+      
+        .light
+            background-color: rgba(255,255 ,255 ,.5)
+
+.objective
+    width: 100%
+    padding: 5% 0 0 0
+    position: relative
+    margin-top: 5%
+    .title
+        color: black
+
+    .item
+        margin-top: 3%   
+        height: 50vh
+        width: 100%
+        display: grid
+        grid-template-columns: repeat(15,1fr)
+        background-image: url('../../../assets/img/objetives.jpg')
+        background-size: cover
+        background-repeat: no-repeat
+        background-position: center
+        
+     
+        &__employ
+            grid-column: 1/4
+        &__healt
+            grid-column: 4/7
+        &__abilities
+            grid-column: 7/10
+        &__projection
+            grid-column: 10/13
+        &__motivation
+            grid-column: 13/16
+ 
+
+        &__employ,
+        &__abilities,
+        &__motivation
+            background-color: rgba(255,255 ,255 ,.6)
+            height: 100%
+            width: 100&
+            display: grid
+            
+        &__healt,
+        &__projection
+            background-color: rgba(122,178,18,0.4)
+            display: grid
+        h5
+            place-self: center    
+            text-transform: uppercase
+.objective::before
+    content: ''
+    position: absolute
+    background-color: rgba(255,255 , 255,0.1 )
+    top: 0
+    left: 0
+    right: 0    
+    bottom: 0

@@ -1,0 +1,120 @@
+{
+    "home": {
+        "phrase": "A life <br> project"
+    },
+    "about": {
+        "title1": "ABOUT US",
+        "text1": "We are an Association that provides a high quality service, focused on sports disciplines and the development of physical capacities in the sports process and taking advantage of free time.",
+        "title2": "WHAT MOTIVATES US",
+        "text2": "The positive transformation of the life of an athlete",
+        "text3": "Change and people's lifestyle",
+        "text4": "Help meet the client's goals and needs with health benefits",
+        "text5": "The fight in reducing sedentary lifestyle and reducing the few active people to exercise",
+        "title3": "WHAT ARE WE LOOKING FOR",
+        "text6": "Encourage the population to have a healthy life by exercising or incorporating a sport as a routine and daily life task.",
+        "title4": "ORGANIZATION CHART"
+    },
+    "philosophy": {
+        "title": "Integral development with life projection",
+        "subtitle1": "MISSION",
+        "text1": "PRO S-SPORT provides an optimal service to customers or users. Focused on: Personalized training in the required sports area, physical preparation for athletes with a benefit to a healthy life, sports nutrition and physical rehabilitation in the injury process.<br> Grouping highly qualified personnel for the fulfillment of sports work areas.",
+        "subtitle2": "VISION",
+        "text2": "PRO S-SPORT, by providing a physical and sports activity service, has been projected for 2028 with the aim of being one of the best sports Associations for coaches nationwide.",
+        "subtitle3": "OUR OBJECTIVES",
+        "objetive1": "Generate employment",
+        "objetive2": "Healthy life style",
+        "objetive3": "Development physical capacities",
+        "objetive4": "Professional Projection",
+        "objetive5": "Sports motivation",
+        "subtitle4": "BEGINNING",
+        "item1": "Entrepreneurship",
+        "item2": "Teamwork",
+        "item3": "Recognition",
+        "subtitle5": "VALUES",
+        "value1": "Commitment",
+        "value2": "Honesty",
+        "value3": "Respect"
+    },
+    "services": {
+        "title": "Our Services",
+        "title1": "MAIN SERVICES",
+        "subtitle1": "Physical Training",
+        "item1": "Improvement of the physical abilities of the athlete to excel in their training and competitions.",
+        "item2": "Improvement of physical condition or state, through exercise.",
+        "item3": "Support in the fulfillment of sports, personal or aesthetic achievements.",
+        "subtitle2": "Personalized training",
+        "opt1": " High performance training in different sports disciplines. (Soccer, Volleyball, Basketball, Tennis, Swimming.)",
+        "opt2": "Specific plans with the aim of improving the technical part and motor development.",
+        "opt3": "Personalized plans for the use of free time.",
+        "title2": "INCLUDED SERVICES",
+        "subtitle3": "AGREEMENTS",
+        "opcion1": "Agreements with entities and compensation funds for the provision of sports venues.",
+        "opcion2": "Main agreements with gyms in the city, to carry out training, strengthening and physical preparation of athletes.",
+        "subtitle4": "ALLIANCES AND SPORTS AGENCY",
+        "text1": "Alliances of amateur and professional clubs in different sports disciplines.",
+        "text2": "We train and promote the talent of our athletes, to manage their sports career",
+        "subtitle5": "SPORT NUTRITION",
+        "text3": "Nutritional analysis.",
+        "text4": " We carry out the complete development of balanced diets for a good diet for the athlete.",
+        "subtitle6": "PHYSICAL READAPTATION",
+        "text5": " Prevention and risk of injury in registered athletes",
+        "text6": "Specialized works in optimal recovery from injuries."
+
+
+
+
+    },
+    "plans": {
+        "title": "OUR PLANS",
+        "subtitle": "PERSONALIZED TRAINING",
+        "text1": "Hour",
+        "text2": "Program of training sessions according to the sport or discipline that the client decides",
+        "text3": "Personal trainer",
+        "text4": "Development and improvement of the technical part and motor development through the training sessions",
+        "text5": "Space for personalized training ",
+        "text6": "Schedule arrangement according to customer comfort",
+        "button": "Contact us",
+        "text7": "Monthly Plan",
+        "text8": "month",
+        "text9": "Planning of the month, according to the sport or discipline of choice",
+        "text10": "Sports nutrition (Nutritional analysis and balanced diet)",
+        "text11": "Injury insurance by PRO S-SPORT (Physical Rehabilitation)",
+        "subtitle2": "PHYSICAL TRAINING",
+        "text12": "Personalized routines to improve physical condition.",
+        "text13": "  Development and improvement of physical capacities.",
+        "text14": "Planning of the month for the development and improvement of physical abilities",
+        "text15": "Physical tests",
+        "subtitle3": " PROGRAMS",
+        "program1": "Hypertrophy",
+        "program2": "Functional <br> Training",
+        "program3": "Crossfit",
+        "program4": "Strength, endurance work",
+        "program5": "Group <br> classes",
+        "program6": "Yoga",
+        "program7": " Cardiovascular exersise",
+        "tarifa1": "Courtesy Day",
+        "tarifa2": "Monthly",
+        "tarifa3": "Semester",
+        "text16": "months",
+        "tarifa4": "Annual",
+        "text17": "year"
+
+    },
+    "contact": {
+        "title": "Contact us",
+        "name": "Name",
+        "phone": "Phone number",
+        "email": "Email",
+        "message": " Write a message",
+        "button": "Send"
+    },
+
+    "navegacion": {
+        "title1": "About Us",
+        "title2": " Philosophy",
+        "title3": " Services",
+        "title4": "Plans",
+        "title5": "Contact"
+    }
+
+}
